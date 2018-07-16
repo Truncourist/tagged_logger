@@ -26,7 +26,7 @@ config.logger = TaggedObjectsLogger.instance
 ## Usage
 
 This gem logs errors, info, bugs, warning, unknown messages and fatal errors.
-This gem tags objects by their class name and IDs in the log file.
+This gem tags object by its class name and ID in the log file.
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
