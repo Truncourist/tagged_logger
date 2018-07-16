@@ -43,6 +43,6 @@ The gem is available as open source under the terms of the [MIT License](https:/
 Everyone interacting in the TaggedLogger project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/tagged_logger/blob/master/CODE_OF_CONDUCT.md).
 
 
-[![Build Status](https://travis-ci.org/Truncourist/active_logger.svg?branch=travis)](https://travis-ci.org/Truncourist/active_logger)
+[![Build Status](https://travis-ci.org/Truncourist/tagged_logger.svg?branch=master)](https://travis-ci.org/Truncourist/tagged_logger)
 
-[![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/Truncourist/active_logger)
+[![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/Truncourist/tagged_logger)
