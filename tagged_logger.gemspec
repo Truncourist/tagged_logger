@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary       = 'Tagged Logger'
   spec.description   = 'A simple Logger, that logs objects error tagged
                         with their IDs'
-  spec.homepage      = 'https://github.com/blink22/tagged_logger'
+  spec.homepage      = 'https://github.com/Truncourist/tagged_logger'
   spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the
